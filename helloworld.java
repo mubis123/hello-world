@@ -4,6 +4,6 @@ public class helloworld {
     System.out.println("Hello, World");
     System.out.println("Devops");
     System.out.println("Java pgm");
-    System.out.println("Linux")
+    System.out.println("Linux");
   }
 }
